@@ -1,0 +1,6 @@
+python-jobspy
+groq
+pandas
+duckduckgo-search
+gspread
+google-auth
